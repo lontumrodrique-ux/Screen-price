@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="c_primary">#4A86C8</color>
+    <color name="c_primary_variant">#0D1A2A</color>
+    <color name="c_bar">#142638</color>
+    <color name="c_accent">#F5A04A</color>
+    <color name="c_bg">#0F1318</color>
+    <color name="c_card">#1A2028</color>
+    <color name="c_text">#E8ECF1</color>
+    <color name="c_muted">#A0ACBB</color>
+    <color name="c_line">#2B3440</color>
+    <color name="c_chip">#22344A</color>
+    <color name="c_primary_text">#8DBDF2</color>
+    <color name="c_good">#6CC070</color>
+    <color name="c_bad">#F06A6A</color>
+    <color name="c_good_bg">#1C3322</color>
+    <color name="c_bad_bg">#3A1E1E</color>
+</resources>
